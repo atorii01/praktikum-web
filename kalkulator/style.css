@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+}
+.card {
+    max-width: 300px;
+    margin: auto;
+}
+button {
+    height: 50px;
+    font-size: 18px;
+}
